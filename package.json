@@ -6,7 +6,7 @@
     "version": "3.7.1"
   },
   "scripts": {
-    "compaire": "hexo g",
+    "compaire": "hexo clean & hexo g",
     "start": "hexo s",
     "deploy": "hexo d"
   },

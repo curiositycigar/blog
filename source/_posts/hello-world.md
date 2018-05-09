@@ -1,5 +1,6 @@
 ---
 title: 开始使用Hexo
+date: 2018-05-08 12:01:25
 categories: 其他
 tags: Hexo
 ---
