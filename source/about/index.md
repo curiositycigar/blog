@@ -17,9 +17,8 @@ type: ""
 > 熟悉jQuery
 > 熟练使用eChart
 > 熟悉nodeJs，有nodeJs开发经验
-> 了解基本的数据结构和算法
 > 了解D3.js
-> 了解React
+> 了解React、Redux
 > 了解基本的linux操作，以及脚本编写
 
 ## 项目经历
