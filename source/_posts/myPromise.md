@@ -4,7 +4,7 @@ date: 2018-06-11 16:01:08
 categories: 前端
 tags: Promise
 ---
-# 实现一个最简单的ES6 Promise对象(如果有错误的地方，希望大家能够不吝赐教)
+# 简单实现一个ES6 Promise对象
 
 -----
 
