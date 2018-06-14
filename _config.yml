@@ -80,6 +80,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # git clone https://github.com/iissnan/hexo-theme-next themes/next
+# git clone https://github.com/fi3ework/hexo-theme-archer themes/archer
 theme: next
 
 # Deployment
